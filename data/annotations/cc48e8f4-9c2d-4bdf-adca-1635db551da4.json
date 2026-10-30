@@ -28,7 +28,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Narratology ",
+          "tag": "Focalization"
+        },
+        {
+          "category": "Narratology ",
+          "tag": "Point of view"
+        }
+      ],
       "uuid": "ee080e55-999d-469d-a385-ee939ad9469d"
     }
   ],
