@@ -204,6 +204,31 @@
         }
       ],
       "uuid": "d7d91ccb-af37-4c63-91b2-ea73eefaf610"
+    },
+    {
+      "start_time": 7980,
+      "end_time": 8400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Romberto Pompo opina que Gabo está al lado de Cervantes y de los escritores más importantes de la historia y también que fue una buena persona. Es conceso general que Gabo consiguió una flor rara en su carrera: ser popular (escritor de ventas) y ser reconocido y respetado por la crítica académica (usualmente inclinada a no favorecer a los autores demasiado populares). En este sentido Gabo fue una \"rara avis\". Gerald Martin dice que Gabo es un escritor representativo, lo que favoreció su candidatura al Nobel de Literatura. El contraste es Jorge Luis Borges: excelente escritor y de méritos incuestionables, pero no es un escritor representativo. Gabo fue un excelente escritor y también representativo de su lugar: la cultura del Caribe y lo latinoamericano. \n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        }
+      ],
+      "uuid": "009c82d2-9a0c-4991-8b81-4b55226b536f"
     }
   ],
   "set": "Default",
