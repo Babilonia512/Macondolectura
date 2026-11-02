@@ -311,6 +311,39 @@
         }
       ],
       "uuid": "75893c42-ea07-46e6-acb3-7f48454ecced"
+    },
+    {
+      "start_time": 14400,
+      "end_time": 15600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poncho Rentería dice que Gabo fue un colombiano de clase media que con mucho esfuerzo y disciplina alcanzó las cumbres de las letras universales \n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Nobel"
+        },
+        {
+          "category": "Literature",
+          "tag": "Literature"
+        }
+      ],
+      "uuid": "9c886e38-c9f0-4510-8c9a-c84db2472740"
     }
   ],
   "set": "Default",
