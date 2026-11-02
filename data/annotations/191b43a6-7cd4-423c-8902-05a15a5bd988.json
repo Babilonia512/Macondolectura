@@ -444,6 +444,43 @@
         }
       ],
       "uuid": "8312d849-abed-41a7-8328-62328a3d03e5"
+    },
+    {
+      "start_time": 25800,
+      "end_time": 27000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mercedes era conocida como “La Gaba” y sin ella Gabo no hubiera conseguido el éxito. “Ella era muy orgullosa de eso aunque no lo decía”, opina Katya. Cuidaba mucho a Gabo y vivía orgullosa de ser su colaboradora personal. Sin ella no pudiera conocerse a Gabo como se conoce "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "fa192935-c98d-47b7-a660-de870f6953eb"
     }
   ],
   "set": "Default",
