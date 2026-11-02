@@ -282,6 +282,35 @@
         }
       ],
       "uuid": "04f6d5b8-78e6-4340-8030-213ce5bba572"
+    },
+    {
+      "start_time": 10800,
+      "end_time": 12000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Roberto Pompo dice que Gabo tenía una capacidad impresionante para \"ver algo en las personas con una sola mirada\" como si los leyera. Era un tipo con una energía especial y muy cálido con los demás\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Biography",
+          "tag": "Personality"
+        }
+      ],
+      "uuid": "75893c42-ea07-46e6-acb3-7f48454ecced"
     }
   ],
   "set": "Default",
