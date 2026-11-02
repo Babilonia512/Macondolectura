@@ -789,6 +789,51 @@
         }
       ],
       "uuid": "242124f9-2d3d-4619-a97e-4f2b55b14e84"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "García Márquez como símbolo de referente universal y de la identidad colombiana. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rentería opina: Colombia mejoró en su imagen en el mundo solo porque era “el país de García Márquez”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Caribbean",
+          "tag": "Caribbean"
+        },
+        {
+          "category": "Caribbean",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Literature",
+          "tag": "Representative "
+        }
+      ],
+      "uuid": "5a42b888-f3ba-47c8-aaf7-60a92615907e"
     }
   ],
   "set": "Default",
