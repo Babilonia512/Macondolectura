@@ -249,6 +249,39 @@
         }
       ],
       "uuid": "009c82d2-9a0c-4991-8b81-4b55226b536f"
+    },
+    {
+      "start_time": 145,
+      "end_time": 9000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Katya Gonzalez, ahijada de García Márquez, dice que Gabo era totalmente Caribe: su personalidad era mágica.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Personality"
+        },
+        {
+          "category": "Biography",
+          "tag": "Family"
+        }
+      ],
+      "uuid": "04f6d5b8-78e6-4340-8030-213ce5bba572"
     }
   ],
   "set": "Default",
