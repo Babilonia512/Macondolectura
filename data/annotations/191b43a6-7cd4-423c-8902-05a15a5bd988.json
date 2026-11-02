@@ -142,6 +142,39 @@
         }
       ],
       "uuid": "77947ac8-1211-447b-93f9-b21750d92dec"
+    },
+    {
+      "start_time": 6000,
+      "end_time": 6300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Espectador. Este periódico marca el inicio de su informal carrera periodística"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Job",
+          "tag": "Journalism"
+        },
+        {
+          "category": "Job",
+          "tag": "Experience"
+        }
+      ],
+      "uuid": "407ec316-46e0-4547-981d-15646ebf6d16"
     }
   ],
   "set": "Default",
