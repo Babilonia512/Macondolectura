@@ -105,6 +105,43 @@
         }
       ],
       "uuid": "8dfc4782-8b84-4817-93fa-13451fd7c96b"
+    },
+    {
+      "start_time": 5400,
+      "end_time": 6000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En 1947 García Márquez se traslada a Bogotá para estudiar derecho, pero descubre una pasión: el periodismo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Job",
+          "tag": "Journalism"
+        },
+        {
+          "category": "Job",
+          "tag": "Experience"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        }
+      ],
+      "uuid": "77947ac8-1211-447b-93f9-b21750d92dec"
     }
   ],
   "set": "Default",
