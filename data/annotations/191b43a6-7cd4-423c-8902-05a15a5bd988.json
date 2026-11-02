@@ -54,7 +54,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Country"
+        },
+        {
+          "category": "Biography",
+          "tag": "Birthplace"
+        },
+        {
+          "category": "Biography",
+          "tag": "Family"
+        },
+        {
+          "category": "Biography",
+          "tag": "Genealogy"
+        }
+      ],
       "uuid": "d9fb1f79-6ae2-4be4-b01e-b200827b34a3"
     }
   ],
