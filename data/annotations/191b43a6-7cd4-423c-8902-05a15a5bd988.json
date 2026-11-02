@@ -23,6 +23,30 @@
       ],
       "tags": [],
       "uuid": "bb74f7d3-d611-4799-b653-3d4af5fc5590"
+    },
+    {
+      "start_time": 3480,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aracataca, pueblo de la costa colombiana, Departamento de Magdalena. Datos biográficos "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d9fb1f79-6ae2-4be4-b01e-b200827b34a3"
     }
   ],
   "set": "Default",
