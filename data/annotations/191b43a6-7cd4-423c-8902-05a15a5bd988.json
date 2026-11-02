@@ -719,6 +719,35 @@
         }
       ],
       "uuid": "ef9bf643-a68a-478f-a3af-a9a2592470db"
+    },
+    {
+      "start_time": 69600,
+      "end_time": 75600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gabo tenía una forma de ser Caribe que influye en su creación. Inventa una nueva forma de narrar que ha sido imitada pero que no es replicable porque era un estilo muy personal atado a la misma personalidad del autor "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Personality"
+        }
+      ],
+      "uuid": "21a851ab-8c5b-4b9a-ad0f-63ec9d3dbd6a"
     }
   ],
   "set": "Default",
