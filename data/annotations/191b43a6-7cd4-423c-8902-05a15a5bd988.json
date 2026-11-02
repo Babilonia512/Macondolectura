@@ -633,6 +633,47 @@
         }
       ],
       "uuid": "5b6e08eb-ec98-42c4-9af3-bbe4b0b43ad6"
+    },
+    {
+      "start_time": 46800,
+      "end_time": 53400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando escribe Cien años de soledad de cartea con importantes figuras como Carlos Fuentes y Vargas Llosa. Cien años de soledad, la obra maestra, publicada en 1967: su marca en la literatura mundial y en la carrera del autor. Pombo “Cien años de soledad es la bomba que García Márquez regaló al mundo” "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literature",
+          "tag": "Latin American Boom"
+        },
+        {
+          "category": "Literature",
+          "tag": "Literature"
+        },
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        }
+      ],
+      "uuid": "234fa0e2-681b-4041-9db2-df8088cb7c81"
     }
   ],
   "set": "Default",
