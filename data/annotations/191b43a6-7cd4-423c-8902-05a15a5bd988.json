@@ -834,6 +834,59 @@
         }
       ],
       "uuid": "5a42b888-f3ba-47c8-aaf7-60a92615907e"
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El fallecimiento de García Márquez 2014 fue un acontecimiento no solamente por ser un Premio Nobel de literatura sino por su fama. En todos los países hispanohablantes el nombre de García Márquez era reconocido. García Márquez es un milagro considerando del pueblo que salió y a dónde pudo llegar y lo más parecido a una “alienación planetaria”, opina Pombo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Nobel"
+        },
+        {
+          "category": "Literature",
+          "tag": "Literature"
+        },
+        {
+          "category": "Literature",
+          "tag": "Latin American Boom"
+        },
+        {
+          "category": "Caribbean",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Caribbean",
+          "tag": "Caribbean"
+        }
+      ],
+      "uuid": "c03488ef-c850-4f42-8a70-d1f76e7aa0ce"
     }
   ],
   "set": "Default",
