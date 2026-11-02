@@ -234,6 +234,18 @@
         {
           "category": "Biography",
           "tag": "Biography"
+        },
+        {
+          "category": "Literature",
+          "tag": "Cervantes"
+        },
+        {
+          "category": "Literature",
+          "tag": "Literature"
+        },
+        {
+          "category": "Literature",
+          "tag": "Representative "
         }
       ],
       "uuid": "009c82d2-9a0c-4991-8b81-4b55226b536f"
