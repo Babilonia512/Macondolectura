@@ -344,6 +344,54 @@
         }
       ],
       "uuid": "9c886e38-c9f0-4510-8c9a-c84db2472740"
+    },
+    {
+      "start_time": 15900,
+      "end_time": 18000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1950, etapa de García Márquez en París. Experimentó dificultades económicas porque El Espectador cierra por el gobierno de Rojas en Colombia y Gabo se queda en París sin trabajo ni paga. No lo menciona pero en esta étapa Gabo consigue escribir una de sus obras más finas estilísticamente: "
+            },
+            {
+              "text": "El coronel no tiene quien le escriba",
+              "italic": true
+            },
+            {
+              "text": ". El libro de siete capítulo no enumerados y que apenas llega, según la edición, a las cien páginas es considerada una novela ejemplar, en calidad y originaldad, dentro de toda la obra de Gabo. Más aún, el argumento de la misma tiene conexiones con la precariedad que el joven escritor enfrenta en Europa: los modos en que narra el hambre, la desesperación y la espera, reflejan lo que en realidad vivía en este momento de su vida. El documental no menciona que durante este tiempo la pareja sentimental: Tachia Quintanar, una española. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Job",
+          "tag": "Experience"
+        },
+        {
+          "category": "Job",
+          "tag": "Journalism"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "37a588ec-43f9-4919-93f5-647fc8d530ac"
     }
   ],
   "set": "Default",
