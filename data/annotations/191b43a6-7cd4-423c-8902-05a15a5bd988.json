@@ -576,6 +576,63 @@
         }
       ],
       "uuid": "8a30ac85-0c40-4507-ac86-e600c4ab04c0"
+    },
+    {
+      "start_time": 36000,
+      "end_time": 46200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pompo hablaba del trabajo de Gabo en su oficina: era calmado, poco locuaz. A Gabo le gustaba mirar “el contraplano” de toda noticia o situación: cuando todos miraban hacia un lado, él buscaba mirar las cosas desde otro lado que usualmente era uno original. Menciona las herramientas de literatura que usaba en el periodismo para hacer las historias creíbles. Menciona que Gabo era pobre y vendía pocos libros pero su entorno cercano lo percibía como alguien que se perfilaba como un escritor bueno que iba a ser importante "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Job",
+          "tag": "Journalism"
+        },
+        {
+          "category": "Job",
+          "tag": "Experience"
+        },
+        {
+          "category": "Job",
+          "tag": "Skills"
+        },
+        {
+          "category": "Job",
+          "tag": "Abilities"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Writing "
+        },
+        {
+          "category": "Literature",
+          "tag": "Literature"
+        }
+      ],
+      "uuid": "5b6e08eb-ec98-42c4-9af3-bbe4b0b43ad6"
     }
   ],
   "set": "Default",
