@@ -534,8 +534,20 @@
       ],
       "tags": [
         {
+          "category": "Concepts",
+          "tag": "Editing"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Drafts"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Writing "
+        },
+        {
           "category": "Job",
-          "tag": "Journalism"
+          "tag": "Skills"
         }
       ],
       "uuid": "49c03c52-3238-417c-9486-08930ce04e17"
