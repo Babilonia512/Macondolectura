@@ -674,6 +674,51 @@
         }
       ],
       "uuid": "234fa0e2-681b-4041-9db2-df8088cb7c81"
+    },
+    {
+      "start_time": 54000,
+      "end_time": 67800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fragmento de una entrevista en la que Gabo habla de dónde y cómo escribió Cien años de soledad. Escribe la novela en un periodo fértil que describe así: “Estaba escribiendo como un tren”. Habla de los dieciocho meses de redacción en los que tuvo poca vida social, casi aislado, en su oficina. Hay que hacer notar que esta es la versión del escritor, mientras que Gerald Martin documenta que en realidad socializó y hasta hizo un viaje a Colombia durante este tiempo. Hay que notar que no era el único proyecto en curso: El otoño del patriarca, la escriba paralelamente. Cien años de soledad ha sido traducida a muchos idiomas. El realismo mágico es una nueva forma inventada por el autor que, aunque otros han querido replicar, no ha sido tan existosa y convicente como en la obra de Gabo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Literature",
+          "tag": "Magic Realism"
+        },
+        {
+          "category": "Literature",
+          "tag": "Latin American Boom"
+        },
+        {
+          "category": "Literature",
+          "tag": "Literature"
+        }
+      ],
+      "uuid": "ef9bf643-a68a-478f-a3af-a9a2592470db"
     }
   ],
   "set": "Default",
