@@ -39,6 +39,22 @@
         }
       ],
       "uuid": "ee080e55-999d-469d-a385-ee939ad9469d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAhora van a ver quién soy yo, se dijo, con su nuevo vozarrón de hombre, muchos años después de que viera por primera vez el trasatlántico inmenso, sin luces y sin ruidos, que una noche pasó frente al pueblo como un gran palacio deshabitado, más largo que todo el pueblo y mucho más alto que la torre de su iglesia, y siguió navegando en tinieblas hacia la ciudad colonial fortificada contra los bucaneros al otro lado de la bahía, con su antiguo puerto negrero y el faro giratorio cuyas lúgubres aspas de luz, cada quince segundos, transfiguraban el pueblo en un campamento lunar de casas fosforescentes y calles de desiertos volcánicos,\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e76c0bc1-c2b8-4776-8186-0b354679ca03"
     }
   ],
   "set": "Default",
