@@ -551,6 +551,27 @@
         }
       ],
       "uuid": "49c03c52-3238-417c-9486-08930ce04e17"
+    },
+    {
+      "start_time": 33600,
+      "end_time": 34200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Katya habla de la disciplina de su padrino para escribir con horarios definidos \n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Concepts",
+          "tag": "Writing "
+        }
+      ],
+      "uuid": "8a30ac85-0c40-4507-ac86-e600c4ab04c0"
     }
   ],
   "set": "Default",
