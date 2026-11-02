@@ -73,6 +73,38 @@
         }
       ],
       "uuid": "d9fb1f79-6ae2-4be4-b01e-b200827b34a3"
+    },
+    {
+      "start_time": 4440,
+      "end_time": 4800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coronel Nicolás Ricardo Márquez Mejía, abuelo y figura central en la vida del escritor. Las historias que escuchaba de su abuelo y su infancia en Aracataca determinaron la imaginación del que se convertiría de adulto en un escritor genio. Hay que destacar como crítica que aquí se da énfasis en la figura de su abuelo materno y no se menciona a Trinquilia Iguarán, su abuela, a quien Gabo mismo reconoció la capacidad de fabulación que poseía para contar las historias más increíbles con \"cara de palo\". Esta atribución fue determinante en la vida del escritor para la clave del "
+            },
+            {
+              "text": "realismo mágico",
+              "italic": true
+            },
+            {
+              "text": " que observamos en Cien años de soledad (1967), ya que en la misma se narran eventos maravillosos con tranquilidad, tal como recordaba el escritor que era el uso de su abuela. \n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Family"
+        },
+        {
+          "category": "Biography",
+          "tag": "Genealogy"
+        }
+      ],
+      "uuid": "8dfc4782-8b84-4817-93fa-13451fd7c96b"
     }
   ],
   "set": "Default",
