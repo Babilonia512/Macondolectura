@@ -396,6 +396,54 @@
         }
       ],
       "uuid": "37a588ec-43f9-4919-93f5-647fc8d530ac"
+    },
+    {
+      "start_time": 21600,
+      "end_time": 25200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mercedes Barcha: la importancia de su rol como esposa y madre en la carrera de Gabo. Mercedes fue primera lectora y crítica de los textos de Gabo. Mercedes le organizaba a Gabo su vida práctica facilitando que él pudiera tener tiempo y espacio para escribir. No lo dicen aquí pero Gabo tiene una célebre frase en la que dijo que las dos cosas más importantes que le habían sucedido en su vida es que "
+            },
+            {
+              "text": "su signo zodiacal es \"Piscis\" y que su esposa se llamaba Mercedes",
+              "italic": true
+            },
+            {
+              "text": ", y que sin eso no hubiese podido ser el escritor que pudo ser. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Opinion"
+        },
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Biography",
+          "tag": "Family"
+        },
+        {
+          "category": "Concepts",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "8312d849-abed-41a7-8328-62328a3d03e5"
     }
   ],
   "set": "Default",
