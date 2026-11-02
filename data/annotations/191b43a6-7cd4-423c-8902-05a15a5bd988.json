@@ -518,6 +518,27 @@
         }
       ],
       "uuid": "5d38ed77-e4cc-4ac9-b3ad-25b037a32466"
+    },
+    {
+      "start_time": 31800,
+      "end_time": 32400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pombo habla del rigor de escritura de Gabo al corregir sus textos \n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Job",
+          "tag": "Journalism"
+        }
+      ],
+      "uuid": "49c03c52-3238-417c-9486-08930ce04e17"
     }
   ],
   "set": "Default",
