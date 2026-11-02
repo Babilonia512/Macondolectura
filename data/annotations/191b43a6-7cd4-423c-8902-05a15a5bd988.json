@@ -481,6 +481,43 @@
         }
       ],
       "uuid": "fa192935-c98d-47b7-a660-de870f6953eb"
+    },
+    {
+      "start_time": 30000,
+      "end_time": 30600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una técnica temprana de su etapa de periodista es la inmersión: el escritor tiene que entrar y conocer los entornos de los que escribe "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Biography",
+          "tag": "Biography"
+        },
+        {
+          "category": "Job",
+          "tag": "Journalism"
+        },
+        {
+          "category": "Job",
+          "tag": "Skills"
+        }
+      ],
+      "uuid": "5d38ed77-e4cc-4ac9-b3ad-25b037a32466"
     }
   ],
   "set": "Default",
