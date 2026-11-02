@@ -175,6 +175,35 @@
         }
       ],
       "uuid": "407ec316-46e0-4547-981d-15646ebf6d16"
+    },
+    {
+      "start_time": 6600,
+      "end_time": 7200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La experiencia y herramientas de esta etapa periodística le ayudarían a madurar en temas políticos y sociales\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Job",
+          "tag": "Journalism"
+        },
+        {
+          "category": "Job",
+          "tag": "Skills"
+        },
+        {
+          "category": "Job",
+          "tag": "Experience"
+        }
+      ],
+      "uuid": "d7d91ccb-af37-4c63-91b2-ea73eefaf610"
     }
   ],
   "set": "Default",
