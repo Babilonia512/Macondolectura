@@ -887,6 +887,30 @@
         }
       ],
       "uuid": "c03488ef-c850-4f42-8a70-d1f76e7aa0ce"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "García Márquez como símbolo de referente universal y de la identidad colombiana. Rentería opina: la imagen de Colombia cambió en el mundo solo porque era “el país de García Márquez”. El fallecimiento de García Márquez 2014 fue un evento multitudinario. García Márquez es un milagro considerando del pueblo del cual salió y a dónde pudo llegar y lo más parecido a una “alienación planetaria”, opina Pombo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "926f2945-32fa-4366-b624-b14b1a41de64"
     }
   ],
   "set": "Default",
