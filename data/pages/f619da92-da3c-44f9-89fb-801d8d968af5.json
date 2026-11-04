@@ -26,7 +26,330 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Estas preguntas pueden servir para identificar los acontecimientos más importantes de la vida de Gabriel García Márquez, identificar las personas que influyeron en su trayectoria y comprender su aporte a la literatura universal.\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Parte 1. Sus orígenes y formación"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Dónde nació Gabriel García Márquez?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Quién fue el coronel Nicolás Ricardo Márquez Mejía y qué importancia tuvo en la infancia del escritor?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué carrera comenzó a estudiar cuando se trasladó a Bogotá en 1947?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué importancia tuvo el periódico El Espectador en los inicios de su trayectoria profesional?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Parte 2. El periodista y el escritor"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Cómo contribuyó el periodismo a desarrollar la conciencia social y política de García Márquez?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿En qué consistía la técnica de inmersión que utilizaba en su trabajo periodístico?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Parte 3. Las personas importantes en su vida"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué características de la personalidad de García Márquez destacan las personas entrevistadas en el video?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Cómo describe Katya González la personalidad de su padrino?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Quién fue Mercedes Barcha y qué papel desempeñó en la vida personal y profesional de García Márquez?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Por qué se considera que Mercedes fue una colaboradora fundamental en su carrera literaria?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué importancia tiene el apoyo de las personas cercanas en el desarrollo de la carrera de un escritor o artista?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Parte 4. El reconocimiento internacional"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué dificultades económicas experimentó García Márquez durante su estancia en París?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿En qué año publicó Cien años de soledad?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué es el realismo mágico y cómo se relaciona con la obra de García Márquez?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué importancia tuvo el Premio Nobel de Literatura que recibió en 1982?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Parte 5. Reflexión y opinión personal"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Al comienzo del video, García Márquez afirma: «Yo escribo para que me quieran más». "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Cómo interpretas esta frase?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Qué cualidades personales y profesionales consideras que contribuyeron a su éxito?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Crees que el talento es suficiente para convertirse en un gran escritor o también se necesita disciplina y esfuerzo? Explica tu respuesta."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -35,7 +358,7 @@
   "created_by": "Babilonia512",
   "title": "Especiales #DNews Gabo",
   "slug": "especiales-dnews-gabo",
-  "updated_at": "2026-11-03T20:52:41.985Z",
+  "updated_at": "2026-11-04T00:48:19.674Z",
   "updated_by": "Babilonia512",
   "autogenerate": {
     "enabled": false,
