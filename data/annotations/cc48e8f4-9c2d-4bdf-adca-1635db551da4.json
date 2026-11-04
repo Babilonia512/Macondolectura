@@ -178,6 +178,22 @@
       ],
       "tags": [],
       "uuid": "26f91dfe-13e7-4a64-a750-4802adbd6003"
+    },
+    {
+      "start_time": 496,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y de pronto todo aquello desapareció con el lamparazo del faro y por un instante volvió a ser el Caribe diáfano, la noche de marzo, el aire cotidiano de los pelícanos, de modo que él se quedó solo entre las boyas, sin saber qué hacer, preguntándose asombrado si de veras no estaría soñando despierto, no sólo ahora sino también las otras veces, pero apenas acababa de preguntárselo cuando un soplo de misterio fue apagando las boyas desde la primera hasta la última, así que cuando pasó la claridad del faro el trasatlántico volvió a aparecer v ya tenía las brújulas extraviadas, acaso sin saber siquiera en qué lugar de la mar océana se encontraba, buscando a tientas el canal invisible pero en realidad derivando hacia los escollos, hasta que él tuvo la revelación abrumadora de que aquel percance de las boyas era la última clave del encantamiento, v encendió la lámpara del bote, una mínima lucecita roja que no tenía por qué alarmar a nadie en los minaretes del resguardo, pero que debió ser para el piloto como un sol oriental, porque gracias a ella el trasatlántico corrigió su horizonte y entró por la puerta grande del canal en una maniobra de resurrección feliz,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d287192-bc2e-4f1b-8fae-4fbbea3d621f"
     }
   ],
   "set": "Default",
