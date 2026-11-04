@@ -29,13 +29,30 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "blob:https://gemini.google.com/3a4aa912-f000-4e50-b015-9615a47bb4cc",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2026-10-30T17:55:45.838Z",
   "created_by": "Babilonia512",
   "title": "Cuento: El último viaje del buque fantasma",
   "slug": "cuento-el-ultimo-viaje-del-buque-fantasma",
-  "updated_at": "2026-11-04T00:48:40.189Z",
+  "updated_at": "2026-11-04T00:53:01.481Z",
   "updated_by": "Babilonia512",
   "autogenerate": {
     "enabled": false,
