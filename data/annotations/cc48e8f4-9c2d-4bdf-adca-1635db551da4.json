@@ -210,6 +210,22 @@
       ],
       "tags": [],
       "uuid": "f03928aa-92d3-40bc-939b-f9fc810989b5"
+    },
+    {
+      "start_time": 649,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y allá empezaban a definirse las cruces de la iglesia, la miseria de las casas, la Ilusión, y todavía el trasatlántico iba detrás de él, siguiéndolo con todo lo que llevaba dentro su capitán dormido del lado del corazón, los toros de lidia en la nieve de sus despensas, el enfermo solitario en su hospital, el agua huérfana de sus cisternas, el piloto irredento que debió confundir los farallones con los muelles porque en aquel instante reventó el bramido descomunal de la sirena, una vez, y él quedó ensopado por el aguacero de vapor que le cayó encima, otra vez, y el bote ajeno estuvo a punto de zozobrar, y otra vez, pero ya era demasiado tarde, porque ahí estaban los caracoles de la orilla, las piedras de la calle, las puertas de los incrédulos, el pueblo entero iluminado por las mismas luces del trasatlántico despavorido, y él apenas tuvo tiempo de apartarse para darle paso al cataclismo, gritando en medio de la conmoción, ahí lo tienen, cabrones"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ba42e6a5-b85d-4454-9cd4-86b6e2f75045"
     }
   ],
   "set": "Default",
