@@ -114,6 +114,22 @@
       ],
       "tags": [],
       "uuid": "26b1b887-db09-4480-83c9-2ac0aba7a275"
+    },
+    {
+      "start_time": 245,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero mientras más evocaba al marido muerto más le borboritaba y se le volvía de chocolate la sangre en el corazón, como si en vez de estar sentada estuviera corriendo, empapada de escalofríos y con la respiración llena de tierra, hasta que él volvió en la madrugada y la encontró muerta en la poltrona, todavía caliente pero ya medio podrida como los picados de culebra, lo mismo que les ocurrió después a otras cuatro señoras, antes de que tiraran en el mar la poltrona asesina, muy lejos, donde no le hicieran mal a nadie, pues la habían usado tanto a través de los siglos que se le había gastado la facultad de producir descanso, de modo que él tuvo que acostumbrarse a su miserable rutina de huérfano, señalado por todos como el hijo de la viuda que llevó al pueblo el trono de la desgracia, viviendo no tanto de la caridad pública como del pescado que se robaba en los botes, mientras la voz se le iba volviendo de (bramante) y sin acordarse más de sus visiones de antaño hasta otra noche de marzo en que miró por casualidad hacia el mar"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "086c828b-9c49-4e04-a034-c1c80e56d0d9"
     }
   ],
   "set": "Default",
