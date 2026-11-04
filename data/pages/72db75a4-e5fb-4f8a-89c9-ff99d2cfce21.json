@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "7678c1d3-87bb-4496-88b2-17e070d05cbb",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-11-04T03:06:41.922Z",
   "created_by": "Babilonia512",
   "title": "Entre el libro y el camino: mi trayecto interior a Macondo ",
   "slug": "entre-el-libro-y-el-camino-mi-trayecto-inte-2",
-  "updated_at": "2026-11-04T03:06:41.922Z",
+  "updated_at": "2026-11-04T03:44:25.891Z",
   "updated_by": "Babilonia512",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "7678c1d3-87bb-4496-88b2-17e070d05cbb"
   }
