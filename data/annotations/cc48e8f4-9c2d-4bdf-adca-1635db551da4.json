@@ -53,6 +53,22 @@
         }
       ],
       "uuid": "e33baa9c-2f00-4c09-bd4e-d80be762a3cd"
+    },
+    {
+      "start_time": 111,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nasí que él mismo creyó que era un sueño, sobre todo al día siguiente, cuando vio el acuario radiante de la bahía, el desorden de colores de las barracas de los negros en las colinas del puerto, las goletas de los contrabandistas de las Guayanas recibiendo su cargamento de loros inocentes con el buche lleno de diamantes, pensó, me dormí contando las estrellas y soñé con ese barco enorme, claro, quedó tan convencido que no se lo contó a nadie ni volvió a acordarse de la visión hasta la misma noche del marzo siguiente, cuando andaba buscando celajes de delfines en el mar y lo que encontró fue el trasatlántico ilusorio, sombrío, intermitente, con el mismo destino equivocado de la primera vez, sólo que él estaba entonces tan seguro de estar despierto que corrió a contárselo a su madre, y ella pasó tres semanas gimiendo de desilusión, porque se te está pudriendo el seso de tanto andar al revés, durmiendo de día y aventurando de noche como la gente de mala vida,\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce38e889-6d06-4ad0-bb92-a468610813c9"
     }
   ],
   "set": "Default",
