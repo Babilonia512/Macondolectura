@@ -29,11 +29,11 @@
   "title": "Garcia Marquez Portada",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "garcia-marquez-portada",
   "created_at": "2026-11-03T04:02:26.603Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-04T00:19:41.843Z",
+  "updated_at": "2026-11-04T00:20:02.195Z",
   "updated_by": "Babilonia512"
 }
