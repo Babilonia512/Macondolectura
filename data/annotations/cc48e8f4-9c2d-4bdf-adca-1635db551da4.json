@@ -226,6 +226,30 @@
       ],
       "tags": [],
       "uuid": "ba42e6a5-b85d-4454-9cd4-86b6e2f75045"
+    },
+    {
+      "start_time": 720,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "un segundo antes de que el tremendo casco de acero descuartizara la tierra y se oyera el estropicio nítido de las noventa mil quinientas copas de champaña que se rompieron una tras otra desde la proa hasta la popa, y entonces se hizo la luz, y ya no fue más la madrugada de marzo sino el medio día de un miércoles radiante, y él pudo darse el gusto de ver a los incrédulos contemplando con la boca abierta el trasatlántico más grande de este mundo y del otro encallado frente a la iglesia, más blanco que todo, veinte veces más alto que la torre y como noventa y siete veces más largo que el pueblo, con el nombre grabado en letras de hierro, (balalcsillag), y todavía chorreando por sus flancos las aguas antiguas y lánguidas de los mares de la muerte. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ca46b7d9-2164-475b-94fe-fdc6e2f9cedb"
     }
   ],
   "set": "Default",
