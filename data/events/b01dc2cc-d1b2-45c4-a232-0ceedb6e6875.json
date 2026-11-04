@@ -16,7 +16,24 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "blob:https://gemini.google.com/3a4aa912-f000-4e50-b015-9615a47bb4cc",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -28,6 +45,6 @@
   ],
   "created_at": "2026-10-30T17:55:45.550Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-03T20:27:59.152Z",
+  "updated_at": "2026-11-04T00:55:56.043Z",
   "updated_by": "Babilonia512"
 }
