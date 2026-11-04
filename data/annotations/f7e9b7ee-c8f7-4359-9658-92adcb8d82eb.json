@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leo una crónica de mi autoría acerca de mi visita peregrina al pueblo de Aracataca que inspiró el Macondo de Gabriel García Márquez. Esta crónica es un testimonio de viaje y de mi encuentro con Cien años de soledad a una edad temprana. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fd1e9127-f570-49f4-bee5-28a7354377ee"
+    }
+  ],
   "set": "Default",
   "event_id": "7678c1d3-87bb-4496-88b2-17e070d05cbb",
   "source_id": "281d5df8-64ea-446f-91fa-bf99140d081c"
