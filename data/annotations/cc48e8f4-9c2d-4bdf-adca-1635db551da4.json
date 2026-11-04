@@ -28,6 +28,31 @@
         }
       ],
       "uuid": "e76c0bc1-c2b8-4776-8186-0b354679ca03"
+    },
+    {
+      "start_time": 51,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\ny aunque él era entonces un niño sin vozarrón de hombre pero con permiso de su madre para escuchar hasta muy tarde en la playa las arpas nocturnas del viento, aún podía recordar como si lo estuviera viendo que el transatlántico desaparecía cuando la luz del faro le daba en el flanco y volvía a aparecer cuando la luz acababa de pasar, de modo que era un buque intermitente que iba apareciendo y desapareciendo hacia la entrada de la bahía, buscando con tanteos de sonámbulo las boyas que señalaban el canal del puerto, hasta que algo debió fallar en sus agujas de orientación, porque derivó hacia los escollos, tropezó, saltó en pedazos y se hundió sin un solo ruido, aunque semejante encontronazo con los arrecifes era para producir un fragor de hierros y una explosión de máquinas que helaran de pavor a los dragones más dormidos en la selva prehistórica que empezaba en las últimas calles de la ciudad y terminaba en el otro lado del mundo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Cuento",
+          "tag": "Plot"
+        },
+        {
+          "category": "Cuento",
+          "tag": "NarrativeSetting"
+        }
+      ],
+      "uuid": "e33baa9c-2f00-4c09-bd4e-d80be762a3cd"
     }
   ],
   "set": "Default",
