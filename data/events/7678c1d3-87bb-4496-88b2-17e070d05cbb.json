@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "281d5df8-64ea-446f-91fa-bf99140d081c": {
+      "label": "Entre el libro y el camino",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600804.us.archive.org/18/items/20250702010/20250702010.WAV",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Entre el libro y el camino: mi trayecto interior a Macondo ",
+  "av_file_order": [
+    "281d5df8-64ea-446f-91fa-bf99140d081c"
+  ],
+  "created_at": "2026-11-04T03:06:41.081Z",
+  "created_by": "Babilonia512",
+  "updated_at": "2026-11-04T03:06:41.081Z",
+  "updated_by": "Babilonia512"
+}
