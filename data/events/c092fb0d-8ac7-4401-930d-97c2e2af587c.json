@@ -16,9 +16,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "En este especial breve se recorre la vida de uno de los escritores más importantes del siglo XX: Gabriel García Márquez"
         }
-      ]
+      ],
+      "align": "justify"
     }
   ],
   "citation": "",
@@ -28,6 +29,7 @@
   ],
   "created_at": "2026-11-02T18:14:49.165Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-02T18:14:49.165Z",
-  "updated_by": "Babilonia512"
+  "updated_at": "2026-11-04T00:18:40.734Z",
+  "updated_by": "Babilonia512",
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/"
 }
