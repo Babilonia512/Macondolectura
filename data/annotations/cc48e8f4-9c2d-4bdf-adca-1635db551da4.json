@@ -146,6 +146,22 @@
       ],
       "tags": [],
       "uuid": "b6fb72b6-7f58-4acc-822c-abf76cb0423d"
+    },
+    {
+      "start_time": 378,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero tan absorto en su aventura que no se detuvo como siempre frente a las tiendas de los hindúes a ver los (mandarines) de marfil tallados en el colmillo entero del elefante, ni se burló de los negros holandeses en sus velocípedos ortopédicos, ni se asustó como otras veces con los malayos de piel de cobra que le habían dado la vuelta al mundo cautivados por la quimera de una fonda secreta donde vendían filetes de brasileras al carbón, porque no se dio cuenta de nada mientras la noche no se le vino encima con todo el peso de las estrellas y la selva exhaló una fragancia dulce de gardenias y salamandras podridas, y ya estaba él remando en el bote robado hacia la entrada de la bahía, con la lámpara apagada para no alborotar a los policías del resguardo, idealizado cada quince segundos por el aletazo verde del faro y otra vez vuelto humano por la oscuridad"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aab8a042-c542-4d90-b282-f9dbc8f30824"
     }
   ],
   "set": "Default",
