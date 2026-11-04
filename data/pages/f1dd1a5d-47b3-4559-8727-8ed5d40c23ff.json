@@ -37,16 +37,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Entre el libro y el camino: mi trayecto interior a Macondo ",
-          "textSize": "heading-four",
-          "color": "#6a4f16"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Eliezer Márquez-Ramos "
         }
       ]
@@ -202,14 +192,14 @@
       ]
     }
   ],
-  "title": "Garcia Marquez Portada",
+  "title": "  Entre el libro y el camino: mi trayecto interior a Macondo ",
   "autogenerate": {
     "enabled": false,
     "type": "home"
   },
-  "slug": "garcia-marquez-portada",
+  "slug": "entre-el-libro-y-el-camino-mi-trayecto-int",
   "created_at": "2026-11-03T04:02:26.603Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-04T03:00:06.082Z",
+  "updated_at": "2026-11-04T03:02:28.541Z",
   "updated_by": "Babilonia512"
 }
