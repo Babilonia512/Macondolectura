@@ -160,7 +160,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Caribbean",
+          "tag": "Caribbean"
+        }
+      ],
       "uuid": "aab8a042-c542-4d90-b282-f9dbc8f30824"
     },
     {
