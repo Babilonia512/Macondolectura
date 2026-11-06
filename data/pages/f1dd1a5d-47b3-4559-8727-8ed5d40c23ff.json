@@ -4,8 +4,43 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Eliezer Márquez-Ramos ",
+          "text": "",
           "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "blob:https://gemini.google.com/975911e9-e18e-4364-aacf-7ef6c3b4d527",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": "Eliezer Márquez-Ramos "
         }
       ]
     },
@@ -259,6 +294,6 @@
   "slug": "entre-el-libro-y-el-camino-mi-trayecto-int",
   "created_at": "2026-11-03T04:02:26.603Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-06T03:54:51.315Z",
+  "updated_at": "2026-11-06T03:55:52.565Z",
   "updated_by": "Babilonia512"
 }
