@@ -112,7 +112,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Gramática",
+          "tag": "Pretérito"
+        }
+      ],
       "uuid": "26b1b887-db09-4480-83c9-2ac0aba7a275"
     },
     {
