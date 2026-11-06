@@ -133,7 +133,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Gramática",
+          "tag": "Imperfecto"
+        },
+        {
+          "category": "Gramática",
+          "tag": "Pretérito"
+        }
+      ],
       "uuid": "086c828b-9c49-4e04-a034-c1c80e56d0d9"
     },
     {
