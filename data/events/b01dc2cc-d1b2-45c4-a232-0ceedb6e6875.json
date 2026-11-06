@@ -16,15 +16,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "blob:https://gemini.google.com/3a4aa912-f000-4e50-b015-9615a47bb4cc",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -33,7 +24,56 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n"
+          "text": "Glosario/ Glossary",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Bramante = Hemp fiber; twine or hemp rope. The image suggests that the voice is becoming dry, coarse, and rough, as though its texture were turning into hemp or rough twine."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Amianto = Asbestos. GGM creates a poetic image by combining a whale with a construction material. This unusual fusion transforms an organic, living creature into something made of an inorganic, rigid, and insensitive material, creating a striking contrast between nature and construction."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Berraca = An extraordinary or formidable beast. Depending on the context, the word can refer either to a powerful, impressive creature or function as an exclamation expressing amazement. In Colombian Spanish, berraco/berraca has several meanings, ranging from extraordinary, impressive, or exceptionally capable to fierce or difficult. Its precise meaning depends on the context."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Mandarines = Chess pieces. In this context, the word refers to the figures or pieces on a chessboard."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Tumtum = Onomatopoeia. A sound-imitating word that recreates the buzzing, humming, or vibrating noise of machines."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
         }
       ]
     }
@@ -45,7 +85,7 @@
   ],
   "created_at": "2026-10-30T17:55:45.550Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-04T01:24:36.784Z",
+  "updated_at": "2026-11-06T20:13:18.834Z",
   "updated_by": "Babilonia512",
   "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
