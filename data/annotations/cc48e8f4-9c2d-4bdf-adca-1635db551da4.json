@@ -54,6 +54,14 @@
         {
           "category": "Cuento",
           "tag": "NarrativeSetting"
+        },
+        {
+          "category": "Gramática",
+          "tag": "Progresivo"
+        },
+        {
+          "category": "Gramática",
+          "tag": "Pretérito"
         }
       ],
       "uuid": "e33baa9c-2f00-4c09-bd4e-d80be762a3cd"
