@@ -258,7 +258,7 @@
                   "italic": true
                 },
                 {
-                  "text": " de Netflix provocó controversia y debate en torno a la voz del narrador: si sonaba caribeña o no; si algunos actores hablaban con un acento caribeño tan afectado que parecían cubanos falsos, y así sucesivamente. Lo que sí es cierto es que esto plantea la pregunta de qué esperamos que suene como el habla caribeña y de cómo la percibimos."
+                  "text": " de Netflix provocó controversia y debate en torno a la voz del narrador: si sonaba caribeña o no; si algunos actores hablaban con un acento caribeño tan afectado que parecían cubanos falsos, y así la cantaleta. Entonces hay que decirlo: esto plantea la pregunta de qué esperamos que suene como el habla caribeña y de cómo la percibimos. Si, se me permite, tengo algunas cosas que decir sobre esto yo, que soy un caribeño transmigrado. "
                 }
               ]
             },
@@ -266,7 +266,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "           Durante casi una década de vivir en Estados Unidos (desde 2018), mi manera de hablar como puertorriqueño, y esto es decir también: como hablante caribeño, se ha visto influenciada por mi contacto con hablantes de otros trasfondos latinoamericanos. Hasta donde puedo cuantificarlo, la mayoría de mis interacciones interpersonales han sido con las poblaciones que componen buena parte de la fuerza laboral en los sectores de la hostelería, el turismo y el comercio minorista, en este orden: mexicanos, colombianos, venezolanos y otros centroamericanos. Fuera de esos círculos laborales, en entornos académicos —a los que me incorporé después de pasar seis años consecutivos en espacios no académicos—, he interactuado con costarricenses, nicaragüenses y chilenos. He conocido a muy pocas personas del Caribe hispanohablante, como yo (dominicanos o cubanos), y prácticamente no he tenido interacción con otros puertorriqueños con muy pocas excepciones."
+                  "text": "           Durante casi una década de vivir en Estados Unidos (desde 2018), mi manera de hablar como puertorriqueño, y esto es decir también: como hablante caribeño, se ha visto influenciada y trastocada por mi contacto con hablantes de otros trasfondos latinoamericanos. Hasta donde mi mirada alcanza, tengo una respuesta obvia: mi contacto con otros hispanohablantes que no son boricuas. Hasta donde puedo cuantificarlo, la mayoría de mis interacciones interpersonales han sido con las poblaciones que componen buena parte de la fuerza laboral en los sectores de la hostelería, el turismo y el comercio minorista, en este orden: mexicanos, colombianos, venezolanos y otros centroamericanos. Fuera de esos círculos laborales, ya dentro de los entornos académicos (a los que me incorporé después de pasar seis años consecutivos en espacios no académicos), he interactuado con costarricenses, nicaragüenses y mexicanos. Los chilenos en Estados Unidos no se encuentran usualmente en los grupos que yo ocupé como laundry attendant, dishwasher, retail cashier, y housekeeping. Los chilenos que he conocido en Estados Unidos han llegado \"baqueados\" como se dice en Puerto Rico: o con becas universitarias o puestos de trabajo bien peripuestos. He conocido a muy pocas personas del Caribe hispanohablante, como yo (dominicanos o cubanos), y prácticamente no he tenido interacción con otros puertorriqueños con muy pocas excepciones."
                 }
               ]
             },
@@ -342,7 +342,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "           Nunca he perdido este rasgo de mi habla. Conozco a un amigo de Hormigueros que, después de mudarse al área metropolitana de Puerto Rico (Río Piedras), erradicó conscientemente ese sonido porque lo percibía como un estigma en los espacios urbanos. Yo, sin embargo, nunca sentí la misma presión por eliminarlo. Mi pueblo natal no estaba ni demasiado cerca ni demasiado lejos de San Juan, lo que quizás significaba que me importaba menos cómo me percibían las personas del área metropolitana. Otra posibilidad es que el contraste entre el entorno lingüístico del que provenía y aquel con el que me encontré simplemente no resultara tan intimidante para mí como lo fue para mi amigo de Hormigueros."
+                  "text": "           Nunca he perdido este rasgo de mi habla. Conozco a un amigo de Hormigueros que, después de mudarse al área metropolitana de Puerto Rico (Río Piedras), erradicó conscientemente ese sonido porque lo percibía como un estigma en los espacios urbanos en los que se integraba. Yo, sin embargo, nunca sentí la misma presión por eliminarlo. Mi pueblo natal no estaba ni demasiado cerca ni demasiado lejos de San Juan, lo que quizás significaba que me importaba menos cómo me percibían las personas del área metropolitana. Creo que el contraste entre el entorno lingüístico del que provenía y aquel con el que me encontré simplemente no resultaba tan intimidante para mí como lo fue para mi amigo de Hormigueros."
                 }
               ]
             },
@@ -358,7 +358,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "       Cuando les digo de dónde soy —un lugar asociado con artistas del reguetón—, me responden: «Pero tú no hablas como un puertorriqueño». Y sé exactamente a qué se refieren. Lo que están diciendo es: «Pero tú no hablas como Rauw Alejandro, Daddy Yankee (o cualquier otra figura de este tipo que goce hoy de una gran visibilidad entre el público masivo)». Al principio, esto me molestaba durante días: cada vez que alguien me lo decía, sentía como si algo de mi identidad estuviera siendo borrado sin mi consentimiento."
+                  "text": "       Entre esos latinoamericanos que me he topado, cuando les digo de dónde soy —un lugar asociado con artistas del reguetón—, me responden: «Pero tú no hablas como un puertorriqueño». Y sé exactamente a qué se refieren. Lo que están diciendo es: «Pero tú no hablas como Rauw Alejandro, Daddy Yankee (o cualquier otra figura de este tipo que goce hoy de una gran visibilidad entre el público masivo)». Al principio, esto me molestaba durante días: cada vez que alguien me lo decía, sentía como si algo de mi identidad estuviera siendo borrado sin mi consentimiento. Me preguntaba si era una habilidad de camuflaje o era un desprecio por sumergirme en sonidos que no debían ser míos por derecho de nacimiento. Pero me pasaba, como decía Neruda: "
                 }
               ]
             },
@@ -366,7 +366,14 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "\n"
+                },
+                {
+                  "text": "De tantos hombres que soy, que somos,\nno puedo encontrar a ninguno:\nse me pierden bajo la ropa,\nse fueron a otra ciudad.",
+                  "italic": true
+                },
+                {
+                  "text": "\n"
                 }
               ]
             },
@@ -374,7 +381,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "         Pero incluso cuando vivía en la isla, sabía que mis compatriotas puertorriqueños pensaban que yo «hablaba raro», es decir, que a veces hablaba de manera demasiado educada y otras veces como alguien que conoce «palabras grandes» («palabras de domingo»). Mi vocabulario era una mezcla de las palabras que utilizaban mis abuelos y mis padres, algunas de ellas ya fuera del uso común, y el lenguaje de la literatura que marcó mis años de formación, atravesado por la memorización de la Biblia protestante, que fue parte de mi trasfondo. En otras palabras, incluso entonces, mi léxico abarcaba una variedad de expresiones que no correspondían del todo con el lugar del que provenía. Tener esto en cuenta me ayuda a no caer por completo en la desesperanza de sentir que estoy perdiendo algo tan importante de mi identidad."
+                  "text": "         Pero incluso cuando vivía en la isla, sabía que mis vecinos que eran tan  puertorriqueños como yo: porque nos habían dicho que habíamos nacido allí y habíamos compartido el mismo predio de alimento y vacilaciones, pensaban que yo «hablaba raro». Esto quería decir que hablaba de manera demasiado educada y otras veces como alguien que conoce «palabras grandes» («palabras de domingo»). Mi vocabulario es indeciso en esto hasta hoy: a veces es una mezcla de las palabras que utilizaban mis abuelos y mis padres, algunas de ellas ya fuera del uso común, y el lenguaje de la literatura que marcó mis años de formación, atravesado por la memorización de la Biblia protestante, que fue parte de mi trasfondo. En otras palabras, incluso entonces, mi léxico abarcaba una variedad de expresiones que no correspondían del todo con el lugar del que provenía. Tener esto en cuenta me ayudaba a no caer por completo en la desesperanza de sentirme que perdía algo tan importante de mi identidad que, cuando vives en Estados Unidos, se desata como una necesidad de reafirmación porque es eso, o la evaporación."
                 }
               ]
             },
@@ -414,14 +421,14 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "            Y lo que he aprendido a lo largo de este recorrido es que, aunque resulta inevitable que mi "
+                  "text": "            Y la pregunta es cómo lo son esos que lo son pero a los otros les parece que no lo son. Lo que he aprendido a lo largo de este recorrido es que, aunque resulta inevitable que mi "
                 },
                 {
                   "text": "performance",
                   "italic": true
                 },
                 {
-                  "text": ", entendida como una manera de ser, cambie a través de mis interacciones con otras lenguas y otros hablantes del español (lo que en lingüística se conoce como «acomodación dialectal»), la verdad es que hay un ritmo dentro de mí, simplemente porque nací allí, que sostiene una determinada manera de ser caribeña y antillana."
+                  "text": ", entendida como una manera de ser, cambie a través de mis interacciones con otras lenguas y otros hablantes del español (lo que en lingüística se conoce como «acomodación dialectal»), la verdad es que hay un ritmo dentro de mí, simplemente porque nací allí, que sostiene una determinada manera de ser caribeña y antillana. La reconocida y brillante filósofa María Zambrano, en unos ensayos de su tiempo en Puerto Rico, dijo que \"El que vive en una isla tiene la imagen real de su propia vida\". Esta imagen, que numéricamente duró en mi caso veintisiete años desde la fecha en un papel que indica mi nacimiento, yo la conozco y vive en mi voz. Es esa «manera de ser», un concepto que el propio Benítez Rojo reconoce que no es fácil de definir. El Caribe tiene una manera de ser que conecta con otras partes del mundo que, aunque no comparten su geografía, sí comparten esa raíz de relaciones."
                 }
               ]
             },
@@ -429,7 +436,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Este proyecto busca afirmar, a través de mi voz, mi posición dentro de esa «manera de ser», un concepto que el propio Benítez Rojo reconoce que no es fácil de definir. El Caribe tiene una manera de ser que conecta con otras partes del mundo que, aunque no comparten su geografía, sí comparten esa raíz de relaciones."
+                  "text": "\n"
                 }
               ]
             },
@@ -437,7 +444,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "          Como enseño español como segunda lengua, he tenido que modificar ligeramente mi habla, y creo que esto ha contribuido a nivelar aún más aquello que ya había comenzado a cambiar espontáneamente por la influencia de quienes me rodean. Esto no es el resultado de una decisión consciente de adoptar patrones de habla distintos a los de mi lugar de origen. Más bien, creo que es una consecuencia natural del contacto sostenido. El habla cambia a medida que entra en proximidad con otros sonidos y patrones de entonación. He notado que, cuando hablo de manera informal, aquello que todavía queda de caribeño en mí —quizás una especie de memoria muscular permanente— emerge de alguna manera. En otras palabras, hablo como lo haría con mi familia allá en Puerto Rico."
+                  "text": "          Como enseño español como segunda lengua, he tenido que modificar ligeramente mi habla, y creo que esto ha contribuido a nivelar aún más aquello que ya había comenzado a cambiar espontáneamente por la influencia de quienes me rodean. Esto no es el resultado de una decisión consciente de adoptar patrones de habla distintos a los de mi lugar de origen (creo yo). Más bien, he considerado que es una consecuencia natural del contacto sostenido, de un combate entre esa imagen real que tuve en la isla y la que, a fuerza de moverme por latitudes antiguas de norteamerica, ha tenido que negociar su sitio y su luz. El habla cambia a medida que entra en proximidad con otros sonidos y patrones de entonación. He notado que, cuando hablo de manera informal, aquello que todavía queda de caribeño en mí —quizás una especie de memoria muscular permanente— emerge de alguna manera. En otras palabras, hablo como lo haría con mi familia allá en Puerto Rico en instancias tan fuera de mi control como la amistad con alguien de Ecuador o Chile."
                 }
               ]
             },
@@ -445,7 +452,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "        Jorge Luis Borges escribió en una ocasión una respuesta furiosa a Américo Castro, quien había caracterizado las variedades del español argentino como «desbarajustes», un término que sugiere desorden o caos lingüístico. Se trataba de un enfrentamiento entre un escritor latinoamericano y la perspectiva de un español que, a juicio de Borges, estaba inventando falsos problemas en torno a las maneras de hablar de los argentinos. Con su característica agudeza, Borges comentó: «Nunca he observado que los españoles hablen mejor que nosotros. (Hablan más alto, eso sí, con el aplomo de los que no saben dudar)»."
+                  "text": "        Jorge Luis Borges escribió en una ocasión una respuesta furiosa a Américo Castro, quien había caracterizado las variedades del español argentino como «desbarajustes».  Este enfrentamiento entre un escritor latinoamericano y la perspectiva de un español que, a juicio de Borges, estaba inventando falsas soluciones a falsos problemas en torno a las maneras de hablar de los argentinos, ha sido probablemente uno de los más esclarecedores respecto a lo difícil que es el tema de cómo hablamos y cómo nos miran los otros. Con su característica agudeza, Borges comentó: «Nunca he observado que los españoles hablen mejor que nosotros. (Hablan más alto, eso sí, con el aplomo de los que ignoran la duda)»."
                 }
               ]
             },
@@ -461,7 +468,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Siguiendo esta línea, quiero precisamente reivindicar esa palabra, «desbarajustes», para explicar lo que me propongo hacer con este proyecto. Inspirado por figuras como Borges, que defendieron su manera de ser a través de la lengua, quiero ofrecer una lectura caribeña/antillana de los cuentos de GGM, abrazando todo aquello que pueda parecer roto, imperfecto y fuera de lugar (incluso para mí)."
+                  "text": "Siguiendo esta línea, quiero precisamente reivindicar esa palabra, «desbarajustes», para explicar lo que me propongo hacer con este proyecto. Quiero ofrecer una lectura caribeña/antillana de los cuentos de GGM, abrazando todo aquello que pueda parecer roto, imperfecto y fuera de lugar (incluso para mí)."
                 }
               ]
             },
@@ -558,7 +565,7 @@
   "created_at": "2026-10-30T17:34:11.638Z",
   "created_by": "Babilonia512",
   "title": "Reading Macondo in Caribeantillean / Leyendo a Macondo en Caribe Antillano ",
-  "updated_at": "2026-11-04T00:38:25.372Z",
+  "updated_at": "2026-11-06T05:11:33.993Z",
   "updated_by": "Babilonia512",
   "autogenerate": {
     "enabled": false,
