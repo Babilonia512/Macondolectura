@@ -171,12 +171,31 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "y de pronto, madre mía, ahí está, la descomunal ballena de (amianto), la bestia (berraca), vengan a verlo, gritaba enloquecido, vengan a verlo, promoviendo tal alboroto de ladridos de perros y pánicos de mujer, que hasta los hombres más viejos se acordaron de los espantos de sus bisabuelos y se metieron debajo de la cama creyendo que había vuelto William Dampier, pero los que se echaron a la calle no se tomaron el trabajo de ver el aparato inverosímil que en aquel instante volvía a perder el oriente y se desbarataba en el desastre anual, sino que lo contramataron a golpes y lo dejaron tan mal torcido que entonces fue cuando él se dijo, babeando de rabia, ahora van a ver quién soy yo, pero se cuidó de no compartir con nadie su determinación sino que pasó el año entero con la idea fija, ahora van a ver quién soy yo, esperando que fuera otra vez la víspera de las apariciones para hacer lo que hizo, ya está, se robó un bote, atravesó la bahía y pasó la tarde esperando su hora grande en los vericuetos del puerto negrero, entre la salsamuera humana del Caribe"
+              "text": "y de pronto, madre mía, ahí está, la descomunal ballena de (amianto), la bestia (berraca), vengan a verlo, gritaba enloquecido, vengan a verlo, "
+            },
+            {
+              "text": "promoviendo ",
+              "highlight": "#f5bdf0"
+            },
+            {
+              "text": "tal alboroto de ladridos de perros y pánicos de mujer, que hasta los hombres más viejos se acordaron de los espantos de sus bisabuelos y se metieron debajo de la cama creyendo que había vuelto William Dampier, pero los que se echaron a la calle no se tomaron el trabajo de ver el aparato inverosímil que en aquel instante volvía a perder el oriente y se desbarataba en el desastre anual, sino que lo contramataron a golpes y lo dejaron tan mal torcido que entonces fue cuando él se dijo, "
+            },
+            {
+              "text": "babeando",
+              "highlight": "#f4beef"
+            },
+            {
+              "text": " de rabia, ahora van a ver quién soy yo, pero se cuidó de no compartir con nadie su determinación sino que pasó el año entero con la idea fija, ahora van a ver quién soy yo, esperando que fuera otra vez la víspera de las apariciones para hacer lo que hizo, ya está, se robó un bote, atravesó la bahía y pasó la tarde esperando su hora grande en los vericuetos del puerto negrero, entre la salsamuera humana del Caribe"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Gramática",
+          "tag": "Progresivo"
+        }
+      ],
       "uuid": "b6fb72b6-7f58-4acc-822c-abf76cb0423d"
     },
     {
