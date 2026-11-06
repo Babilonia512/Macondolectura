@@ -4,14 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -19,7 +11,6 @@
     {
       "type": "image",
       "url": "blob:https://gemini.google.com/88306a94-71c3-4c92-a48e-f2d88aa29f36",
-      "caption": "cien",
       "children": [
         {
           "text": ""
@@ -301,6 +292,6 @@
   "slug": "entre-el-libro-y-el-camino-mi-trayecto-int",
   "created_at": "2026-11-03T04:02:26.603Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-06T03:36:39.628Z",
+  "updated_at": "2026-11-06T03:37:37.252Z",
   "updated_by": "Babilonia512"
 }
