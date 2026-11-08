@@ -30,7 +30,13 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "Crónica: ",
+          "textSize": "heading-two"
+        },
+        {
+          "textSize": "heading-two",
+          "text": "Entre el libro y el camino: mi trayecto interior a Macondo ",
+          "italic": true
         }
       ]
     },
@@ -293,6 +299,6 @@
   "slug": "i-entre-el-libro-y-el-camino-mi-trayecto-i",
   "created_at": "2026-11-03T04:02:26.603Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-06T18:27:55.627Z",
+  "updated_at": "2026-11-08T05:22:15.816Z",
   "updated_by": "Babilonia512"
 }
