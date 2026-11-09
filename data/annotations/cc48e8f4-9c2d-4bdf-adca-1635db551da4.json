@@ -301,12 +301,70 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "y de pronto todo aquello desapareció con el lamparazo del faro y por un instante volvió a ser el Caribe diáfano, la noche de marzo, el aire cotidiano de los pelícanos, de modo que él se quedó solo entre las boyas, sin saber qué hacer, preguntándose asombrado si de veras no estaría soñando despierto, no sólo ahora sino también las otras veces, pero apenas acababa de preguntárselo cuando un soplo de misterio fue apagando las boyas desde la primera hasta la última, así que cuando pasó la claridad del faro el trasatlántico volvió a aparecer v ya tenía las brújulas extraviadas, acaso sin saber siquiera en qué lugar de la mar océana se encontraba, buscando a tientas el canal invisible pero en realidad derivando hacia los escollos, hasta que él tuvo la revelación abrumadora de que aquel percance de las boyas era la última clave del encantamiento, v encendió la lámpara del bote, una mínima lucecita roja que no tenía por qué alarmar a nadie en los minaretes del resguardo, pero que debió ser para el piloto como un sol oriental, porque gracias a ella el trasatlántico corrigió su horizonte y entró por la puerta grande del canal en una maniobra de resurrección feliz,"
+              "text": "y de pronto todo aquello "
+            },
+            {
+              "text": "desapareció",
+              "highlight": "#b3f9d9"
+            },
+            {
+              "text": " con el lamparazo del faro y por un instante volvió a ser el Caribe diáfano, la noche de marzo, el aire cotidiano de los pelícanos, de modo que él se quedó solo entre las boyas, sin saber qué hacer, preguntándose asombrado si de veras no estaría "
+            },
+            {
+              "text": "soñando",
+              "highlight": "#e2d792"
+            },
+            {
+              "text": " despierto, no sólo ahora sino también las otras veces, pero apenas acababa de preguntárselo cuando un soplo de misterio fue "
+            },
+            {
+              "text": "apagando",
+              "highlight": "#f2d7b0"
+            },
+            {
+              "text": " las boyas desde la primera hasta la última, así que cuando pasó la claridad del faro el trasatlántico "
+            },
+            {
+              "text": "volvió",
+              "highlight": "#a2e6c3"
+            },
+            {
+              "text": " a aparecer v ya tenía las brújulas extraviadas, acaso sin saber siquiera en qué lugar de la mar océana se encontraba, "
+            },
+            {
+              "text": "buscando",
+              "highlight": "#e9de96"
+            },
+            {
+              "text": " a tientas el canal invisible pero en realidad "
+            },
+            {
+              "text": "derivando",
+              "highlight": "#f5e999"
+            },
+            {
+              "text": " hacia los escollos, hasta que él tuvo la revelación abrumadora de que aquel percance de las boyas era la última clave del encantamiento, v encendió la lámpara del bote, una mínima lucecita roja que no tenía por qué alarmar a nadie en los minaretes del resguardo, pero que debió ser para el piloto como un sol oriental, porque gracias a ella el trasatlántico "
+            },
+            {
+              "text": "corrigió su horizonte y entró ",
+              "highlight": "#efcaf7"
+            },
+            {
+              "text": "por la puerta grande del canal en una maniobra de resurrección feliz,"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Gramática",
+          "tag": "Progresivo"
+        },
+        {
+          "category": "Gramática",
+          "tag": "Pretérito"
+        }
+      ],
       "uuid": "4d287192-bc2e-4f1b-8fae-4fbbea3d621f"
     },
     {
