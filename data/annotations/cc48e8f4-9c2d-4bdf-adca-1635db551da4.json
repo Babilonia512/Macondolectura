@@ -474,7 +474,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "un segundo antes de que el tremendo casco de acero descuartizara la tierra y se oyera el estropicio nítido de las noventa mil quinientas copas de champaña que se rompieron una tras otra desde la proa hasta la popa, y entonces se hizo la luz, y ya no fue más la madrugada de marzo sino el medio día de un miércoles radiante, y él pudo darse el gusto de ver a los incrédulos contemplando con la boca abierta el trasatlántico más grande de este mundo y del otro encallado frente a la iglesia, más blanco que todo, veinte veces más alto que la torre y como noventa y siete veces más largo que el pueblo, con el nombre grabado en letras de hierro, (halalcsillag), y todavía chorreando por sus flancos las aguas antiguas y lánguidas de los mares de la muerte. "
+              "text": "un segundo antes de que el tremendo casco de acero descuartizara la tierra y se oyera el estropicio nítido de las noventa mil quinientas copas de champaña que se rompieron una tras otra desde la proa hasta la popa, y entonces se hizo la luz, "
+            },
+            {
+              "text": "y ya no fue",
+              "highlight": "#e5bde2"
+            },
+            {
+              "text": " más la madrugada de marzo sino el medio día de un miércoles radiante, y él pudo darse el gusto de ver a los incrédulos contemplando con la boca abierta el trasatlántico más grande de este mundo y del otro encallado frente a la iglesia, más blanco que todo, veinte veces más alto que la torre y como noventa y siete veces más largo que el pueblo, con el nombre grabado en letras de hierro, (halalcsillag), y todavía "
+            },
+            {
+              "text": "chorreando",
+              "highlight": "#f4c543"
+            },
+            {
+              "text": " por sus flancos las aguas antiguas y lánguidas de los mares de la muerte. "
             }
           ]
         },
@@ -487,7 +501,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Gramática",
+          "tag": "Pretérito"
+        },
+        {
+          "category": "Gramática",
+          "tag": "Progresivo"
+        }
+      ],
       "uuid": "ca46b7d9-2164-475b-94fe-fdc6e2f9cedb"
     }
   ],
