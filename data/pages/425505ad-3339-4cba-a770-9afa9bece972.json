@@ -266,7 +266,23 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "           Durante casi una década de vivir en Estados Unidos (desde 2018), mi manera de hablar como puertorriqueño, y esto es decir también: como hablante caribeño, se ha visto influenciada y trastocada por mi contacto con hablantes de otros trasfondos latinoamericanos. Hasta donde mi mirada alcanza, tengo una respuesta obvia: mi contacto con otros hispanohablantes que no son boricuas. Hasta donde puedo cuantificarlo, la mayoría de mis interacciones interpersonales han sido con las poblaciones que componen buena parte de la fuerza laboral en los sectores de la hostelería, el turismo y el comercio minorista, en este orden: mexicanos, colombianos, venezolanos y otros centroamericanos. Fuera de esos círculos laborales, ya dentro de los entornos académicos (a los que me incorporé después de pasar seis años consecutivos en espacios no académicos), he interactuado con costarricenses, nicaragüenses y mexicanos. Los chilenos en Estados Unidos no se encuentran usualmente en los grupos que yo ocupé como laundry attendant, dishwasher, retail cashier, y housekeeping. Los chilenos que he conocido en Estados Unidos han llegado \"baqueados\" como se dice en Puerto Rico: o con becas universitarias o puestos de trabajo bien peripuestos. He conocido a muy pocas personas del Caribe hispanohablante, como yo (dominicanos o cubanos), y prácticamente no he tenido interacción con otros puertorriqueños con muy pocas excepciones."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -565,7 +581,7 @@
   "created_at": "2026-10-30T17:34:11.638Z",
   "created_by": "Babilonia512",
   "title": "Reading Macondo in Caribeantillean / Leyendo a Macondo en Caribe Antillano ",
-  "updated_at": "2026-11-06T05:11:33.993Z",
+  "updated_at": "2026-11-09T20:40:16.080Z",
   "updated_by": "Babilonia512",
   "autogenerate": {
     "enabled": false,
