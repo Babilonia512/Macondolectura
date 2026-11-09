@@ -259,7 +259,28 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "sabiendo que andaba cerca de las boyas que señalaban el canal del puerto no sólo porque viera cada vez más intenso su fulgor opresivo sino porque la respiración del agua se iba volviendo triste, y así remaba tan ensimismado que no supo de dónde le llegó de pronto un pavoroso aliento de tiburón ni por qué la noche se hizo densa como si las estrellas se hubieran muerto de repente, y era que el trasatlántico estaba allí con todo su tamaño inconcebible, madre, más grande que cualquier otra cosa grande en el mundo y más oscuro que cualquier otra cosa oscura de la tierra o del agua, trescientas mil toneladas de olor de tiburón pasando tan cerca del bote que él podía ver las costuras del precipicio de acero, sin una sola luz en los infinitos Ojos de buey, sin un suspiro en las máquinas, sin un alma, y llevando consigo su propio ámbito de silencio, su propio cielo vacío, su propio aire muerto, su tiempo parado, su mar errante en el que flotaba un mundo entero de animales ahogados,"
+              "text": "sabiendo que andaba cerca de las boyas que señalaban el canal del puerto no sólo porque viera cada vez más intenso su fulgor opresivo sino porque la respiración del agua se iba "
+            },
+            {
+              "text": "volviendo",
+              "highlight": "#fdd47c"
+            },
+            {
+              "text": " triste, y así remaba tan ensimismado que no supo de dónde le llegó de pronto un pavoroso aliento de tiburón ni por qué la noche se hizo densa como si las estrellas se hubieran muerto de repente, y era que el trasatlántico estaba allí con todo su tamaño inconcebible, madre, más grande que cualquier otra cosa grande en el mundo y más oscuro que cualquier otra cosa oscura de la tierra o del agua, trescientas mil toneladas de olor de tiburón"
+            },
+            {
+              "text": " pasando",
+              "highlight": "#ffd885"
+            },
+            {
+              "text": " tan cerca del bote que él podía ver las costuras del precipicio de acero, sin una sola luz en los infinitos Ojos de buey, sin un suspiro en las máquinas, sin un alma, y "
+            },
+            {
+              "text": "llevando",
+              "highlight": "#fbd789"
+            },
+            {
+              "text": " consigo su propio ámbito de silencio, su propio cielo vacío, su propio aire muerto, su tiempo parado, su mar errante en el que flotaba un mundo entero de animales ahogados,"
             }
           ]
         }
