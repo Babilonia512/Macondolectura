@@ -421,12 +421,49 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "y allá empezaban a definirse las cruces de la iglesia, la miseria de las casas, la Ilusión, y todavía el trasatlántico iba detrás de él, siguiéndolo con todo lo que llevaba dentro su capitán dormido del lado del corazón, los toros de lidia en la nieve de sus despensas, el enfermo solitario en su hospital, el agua huérfana de sus cisternas, el piloto irredento que debió confundir los farallones con los muelles porque en aquel instante reventó el bramido descomunal de la sirena, una vez, y él quedó ensopado por el aguacero de vapor que le cayó encima, otra vez, y el bote ajeno estuvo a punto de zozobrar, y otra vez, pero ya era demasiado tarde, porque ahí estaban los caracoles de la orilla, las piedras de la calle, las puertas de los incrédulos, el pueblo entero iluminado por las mismas luces del trasatlántico despavorido, y él apenas tuvo tiempo de apartarse para darle paso al cataclismo, gritando en medio de la conmoción, ahí lo tienen, cabrones"
+              "text": "y allá empezaban a definirse las cruces de la iglesia, la miseria de las casas, la Ilusión, y todavía el trasatlántico iba detrás de él, siguiéndolo con todo lo que llevaba dentro su capitán dormido del lado del corazón, los toros de lidia en la nieve de sus despensas, el enfermo solitario en su hospital, el agua huérfana de sus cisternas, el piloto irredento que debió confundir los farallones con los muelles porque en aquel instante "
+            },
+            {
+              "text": "reventó ",
+              "highlight": "#eab8e9"
+            },
+            {
+              "text": "el bramido descomunal de la sirena, una vez, y "
+            },
+            {
+              "text": "él quedó ",
+              "highlight": "#eebfed"
+            },
+            {
+              "text": "ensopado por el aguacero de vapor que "
+            },
+            {
+              "text": "le cayó",
+              "highlight": "#e9c4e8"
+            },
+            {
+              "text": " encima, otra vez, y el bote ajeno estuvo a punto de zozobrar, y otra vez, pero ya era demasiado tarde, porque ahí estaban los caracoles de la orilla, las piedras de la calle, las puertas de los incrédulos, el pueblo entero iluminado por las mismas luces del trasatlántico despavorido, y él apenas tuvo tiempo de apartarse para darle paso al cataclismo, "
+            },
+            {
+              "text": "gritando",
+              "highlight": "#e5cc71"
+            },
+            {
+              "text": " en medio de la conmoción, ahí lo tienen, cabrones"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Gramática",
+          "tag": "Pretérito"
+        },
+        {
+          "category": "Gramática",
+          "tag": "Progresivo"
+        }
+      ],
       "uuid": "ba42e6a5-b85d-4454-9cd4-86b6e2f75045"
     },
     {
