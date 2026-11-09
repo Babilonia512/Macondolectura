@@ -206,7 +206,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "pero tan absorto en su aventura que no se detuvo como siempre frente a las tiendas de los hindúes a ver los (mandarines) de marfil tallados en el colmillo entero del elefante, ni se burló de los negros holandeses en sus velocípedos ortopédicos, ni se asustó como otras veces con los malayos de piel de cobra que le habían dado la vuelta al mundo cautivados por la quimera de una fonda secreta donde vendían filetes de brasileras al carbón, porque no se dio cuenta de nada mientras la noche no se le vino encima con todo el peso de las estrellas y la selva exhaló una fragancia dulce de gardenias y salamandras podridas, y ya estaba él remando en el bote robado hacia la entrada de la bahía, con la lámpara apagada para no alborotar a los policías del resguardo, idealizado cada quince segundos por el aletazo verde del faro y otra vez vuelto humano por la oscuridad"
+              "text": "pero tan absorto en su aventura que no se detuvo como siempre frente a las tiendas de los hindúes a ver los (mandarines) de marfil tallados en el colmillo entero del elefante,"
+            },
+            {
+              "text": " ni se burló ",
+              "highlight": "#f9dcf8"
+            },
+            {
+              "text": "de los negros holandeses en sus velocípedos ortopédicos, "
+            },
+            {
+              "text": "ni se asustó",
+              "highlight": "#ade6d5"
+            },
+            {
+              "text": " como otras veces con los malayos de piel de cobra que le habían dado la vuelta al mundo cautivados por la quimera de una fonda secreta donde vendían filetes de brasileras al carbón, porque "
+            },
+            {
+              "text": "no se dio",
+              "highlight": "#b5e8d9"
+            },
+            {
+              "text": " cuenta de nada mientras la noche no se le vino encima con todo el peso de las estrellas y la selva "
+            },
+            {
+              "text": "exhaló",
+              "highlight": "#bbecde"
+            },
+            {
+              "text": " una fragancia dulce de gardenias y salamandras podridas, y ya estaba él remando en el bote robado hacia la entrada de la bahía, con la lámpara apagada para no alborotar a los policías del resguardo, idealizado cada quince segundos por el aletazo verde del faro y otra vez vuelto humano por la oscuridad"
             }
           ]
         }
@@ -215,6 +243,10 @@
         {
           "category": "Caribbean",
           "tag": "Caribbean"
+        },
+        {
+          "category": "Gramática",
+          "tag": "Pretérito"
         }
       ],
       "uuid": "aab8a042-c542-4d90-b282-f9dbc8f30824"
