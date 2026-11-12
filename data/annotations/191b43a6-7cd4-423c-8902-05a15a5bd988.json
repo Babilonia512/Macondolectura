@@ -582,8 +582,8 @@
       "uuid": "8a30ac85-0c40-4507-ac86-e600c4ab04c0"
     },
     {
-      "start_time": 36000,
-      "end_time": 46200,
+      "start_time": 600,
+      "end_time": 770,
       "annotation": [
         {
           "type": "paragraph",
