@@ -317,8 +317,8 @@
       "uuid": "75893c42-ea07-46e6-acb3-7f48454ecced"
     },
     {
-      "start_time": 14400,
-      "end_time": 15600,
+      "start_time": 240,
+      "end_time": 260,
       "annotation": [
         {
           "type": "paragraph",
