@@ -105,6 +105,71 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Identifica el tiempo verbal de los siguientes ejemplos: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1. \"Pasó toda la tarde a gatas\""
+        },
+        {
+          "bold": true,
+          "text": " ("
+        },
+        {
+          "text": "Pretérito   o Imperfecto)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. \"Decía a los mozos antes de ordenar\"  (Pretérito o imperfecto)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3. \"Advirtió el mismo olor que había sentido en su habitación una noche\" (Pretérito o imperfecto)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4. \"el vendedor la había mirado a los ojos\" (Pretérito o imperfecto)\n5. \"escribía en las servilletas y rayaba con el cuchillo el barniz de las mesas\" (Pretérito o imperfecto)\n\n\n\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "citation": "",
@@ -114,6 +179,6 @@
   ],
   "created_at": "2026-11-08T04:38:06.782Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-10T01:29:27.902Z",
+  "updated_at": "2026-11-17T18:05:51.382Z",
   "updated_by": "Babilonia512"
 }
