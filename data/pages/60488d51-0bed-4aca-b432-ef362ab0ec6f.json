@@ -4,7 +4,12 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "No hay mejor manera de comprender las funciones del pretérito y el imperfecto que a través de la literatura. Y no de cualquier literatura, sino de la obra de uno de los escritores latinoamericanos más reconocidos y galardonados: Gabriel García Márquez, conocido cariñosamente como Gabo."
+          "text": "No hay mejor manera de comprender las funciones del pretérito y el imperfecto que a través de la literatura",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "text": ". Gabriel García Márquez, conocido cariñosamente como Gabo, es un maestro del cuento y el relato. Este espacio ofrece una selección breve y cuidadosamente seleccionada de algunas de sus mejores historias y textos. "
         }
       ]
     },
@@ -12,22 +17,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Este espacio ofrece una selección breve y cuidadosamente seleccionada de algunas de sus mejores historias y textos. A través de la lectura, recursos auditivos y la reflexión, los estudiantes podrán explorar cómo funcionan"
+          "text": "A través de la lectura, recursos auditivos y la reflexión, los estudiantes podrán explorar cómo funcionan"
         },
         {
           "text": " el pretérito y el imperfecto ",
           "bold": true
         },
         {
-          "text": "con materiales literarios auténticos. Al final de cada lectura\nencontrarán actividades diseñadas para reflexionar sobre estos usos gramaticales y ponerlos en práctica. Además, cada fragmento cuenta con un audio\nque permite seguir la lectura, familiarizarse con la pronunciación y prestar especial atención a los sonidos del español."
+          "text": "con materiales literarios auténticos. Al final de cada lectura encontrarán actividades diseñadas para reflexionar sobre estos usos gramaticales y ponerlos en práctica. Además, cada fragmento cuenta con un audio que permite seguir la lectura, familiarizarse con la pronunciación y prestar especial atención a los sonidos del español."
         }
       ]
     },
@@ -167,6 +164,6 @@
   "slug": "ruta-sugerida-suggested-route-map",
   "created_at": "2026-11-17T18:40:59.435Z",
   "created_by": "Babilonia512",
-  "updated_at": "2026-11-17T18:40:59.435Z",
+  "updated_at": "2026-11-18T02:16:12.063Z",
   "updated_by": "Babilonia512"
 }
