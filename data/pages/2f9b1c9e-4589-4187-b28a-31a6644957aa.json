@@ -43,21 +43,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(Foto: The Telegraph, 2024)\n\n\n\n"
+          "text": "(Foto: The Telegraph, 2024)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n"
         },
         {
           "text": "En este fragmento de unos de los ",
-          "textSize": "heading-one"
+          "textSize": "heading-two"
         },
         {
           "text": "Doce cuentos peregrinos ",
           "italic": true,
-          "textSize": "heading-one"
+          "textSize": "heading-two"
         },
         {
           "text": "(1992) Gabriel García Márquez se encuentra con Pablo Neruda en un restaurante y reconoce a una colombiana que tiene el don de interpretar los sueños. Los siguientes colores marcan los tópicos gramaticales que puedes observar en este cuento: 🔵 Pretérito 🟢 Imperfecto🟠 Progresivo (estar + gerundio)",
-          "textSize": "heading-one"
-        },
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "textSize": "heading-two",
           "text": "\n"
@@ -207,7 +220,7 @@
   "created_by": "Babilonia512",
   "title": "\"Me alquilo para soñar\" (fragmento de Doce cuentos peregrinos)",
   "slug": "me-alquilo-para-sonar-fragmento-de-doce-cu",
-  "updated_at": "2026-11-12T01:09:00.342Z",
+  "updated_at": "2026-11-18T05:38:15.966Z",
   "updated_by": "Babilonia512",
   "autogenerate": {
     "enabled": false,
